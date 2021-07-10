@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Char.h(129,1): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(12,11): warning C4101: 'NewSBSize': unreferenced local variable
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(23,11): warning C4101: 'NewSBSize': unreferenced local variable
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(39,11): warning C4101: 'NewSBSize': unreferenced local variable
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(123,15): warning C4101: 'NewSBSize': unreferenced local variable
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(222,21): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(1157,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(765): warning C4715: 'Alba_Neagra': not all control paths return a value
+C:\Users\popaa\source\repos\RPG-ul lui Cata\RPG-ul lui Cata\Voiduri.h(1326): warning C4715: 'Esc_Menu': not all control paths return a value
+  RPG-ul lui Cata.vcxproj -> C:\Users\popaa\source\repos\RPG-ul lui Cata\Debug\RPG-ul lui Cata.exe
